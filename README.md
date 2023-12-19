@@ -58,10 +58,10 @@ def max_marks(numbers):
 
 ## Output:
 ### 1:
-![image](https://github.com/Gokkul-M/FindMaximum/assets/144870543/e61a595d-6cb0-40f1-b7dc-b21e9bdb17da)
+![image](https://github.com/Gokkul-M/FindMaximum/assets/144870543/84e31af9-e171-4b3b-9f7b-ccc310ee534a)
 ### 2,
 ![image](https://github.com/Gokkul-M/FindMaximum/assets/144870543/0b433c2d-e3c5-4acf-bdae-d887023c3605)
 ### 3,
-![Uploading image.png…]()
+![image](https://github.com/Gokkul-M/FindMaximum/assets/144870543/5e336f73-b4f8-4b36-a8be-cdc4b09c4d00)
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
